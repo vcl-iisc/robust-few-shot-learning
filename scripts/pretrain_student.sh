@@ -1,0 +1,2 @@
+## CIFAR-FS
+python code/pretrain_student.py --architecture ResNet12 --dataset 'CIFAR-FS' --use_mixup --teacher_init --reg 'cosine_lp' --mode 'curr' --r_max 16 --run_name 'cosine_lp_teacher_init_curr16-2' --s_epochs 40 --gpu 2
