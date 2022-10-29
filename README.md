@@ -1,4 +1,4 @@
-# Robust Few-shot Learning Without Using any Adversarial Samples (Under Submission) - Official Implementation
+# Robust Few-shot Learning Without Using any Adversarial Samples <br> (Under Review) - Official Implementation
 
 
 ### Dependencies:
@@ -34,4 +34,4 @@ Step-2. Finetuning & Evaluation Stage
 
 ### Acknowledgements
 
-This repo borrows code from [Dhillon et al. 2020](https://github.com/amazon-science/few-shot-baseline) and [Wang et al. 2020](https://github.com/HaohanWang/HFC)
+This repo is adapted from [Dhillon et al. 2020](https://github.com/amazon-science/few-shot-baseline) and [Wang et al. 2020](https://github.com/HaohanWang/HFC)
